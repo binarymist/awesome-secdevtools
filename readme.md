@@ -35,6 +35,7 @@ Please read the [contribution guidelines](contributing.md) if you want to contri
 #### PowerShell
 
 * [PowerShellArsenal](https://github.com/mattifestation/PowerShellArsenal) - PowerShell repository used to aid a reverse engineer. The module can be used to disassemble managed and unmanaged code, perform .NET malware analysis, analyse/scrape memory, parse file formats and memory structures, obtain internal system information, etc.
+* [UnicornPowerShell](https://github.com/mattifestation/UnicornPowerShell) - A pure PowerShell binding of the [Unicorn Engine](http://www.unicorn-engine.org/), a multi-architecture CPU emulator framework.
 
 ## Books Network
 
