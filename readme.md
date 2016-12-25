@@ -18,7 +18,7 @@ Please read the [contribution guidelines](contributing.md) if you want to contri
 * [VPS](#vps)
   * [Windows](#vps-windows)
     * [PowerShell](#vps-windows-powershell)
-* [Books](#books)
+* [Books Network](#books-network)
 
 
 
@@ -36,7 +36,9 @@ Please read the [contribution guidelines](contributing.md) if you want to contri
 
 * [PowerShellArsenal](https://github.com/mattifestation/PowerShellArsenal) - PowerShell repository used to aid a reverse engineer. The module can be used to disassemble managed and unmanaged code, perform .NET malware analysis, analyse/scrape memory, parse file formats and memory structures, obtain internal system information, etc.
 
-## Books
+## Books Network
+
+* [Attacking Network Protocols](https://www.nostarch.com/networkprotocols)
 
 
 
