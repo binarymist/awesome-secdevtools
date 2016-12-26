@@ -30,12 +30,16 @@ Please read the [contribution guidelines](contributing.md) if you want to contri
 
 ## VPS
 
+* [Linux_Exploit_Suggester](https://github.com/PenturaLabs/Linux_Exploit_Suggester) - Uses the OS release version, or fine tune by manually providing the Kernel version. Shipped in Kali Linux, and also has [blog post](https://penturalabs.wordpress.com/2013/08/26/linux-exploit-suggester/).
+* [Windows-Exploit-Suggester](https://github.com/GDSSecurity/Windows-Exploit-Suggester) - Compares a targets patch levels against the Microsoft vulnerability database in order to detect potential missing patches on the target. It also notifies the user if there are public exploits and Metasploit modules available for the missing bulletins.
+
 ### Windows
 
 #### PowerShell
 
 * [PowerShellArsenal](https://github.com/mattifestation/PowerShellArsenal) - PowerShell repository used to aid a reverse engineer. The module can be used to disassemble managed and unmanaged code, perform .NET malware analysis, analyse/scrape memory, parse file formats and memory structures, obtain internal system information, etc.
 * [UnicornPowerShell](https://github.com/mattifestation/UnicornPowerShell) - A pure PowerShell binding of the [Unicorn Engine](http://www.unicorn-engine.org/), a multi-architecture CPU emulator framework.
+* [WMI_Backdoor](https://github.com/mattifestation/WMI_Backdoor) - PoC WMI backdoor, possibly useful for my WMI exploitation in F1 of Holistic Info-Sec for Web Developers.
 
 ## Books Network
 
