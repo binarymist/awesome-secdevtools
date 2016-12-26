@@ -11,7 +11,7 @@ Birthed out of the book series I am currently working on [Holistic Info-Sec for 
 
 Please read the [contribution guidelines](contributing.md) if you want to contribute.
 
-**Check out my [blog](https://blog.binarymist.net) 🦄 or say *hi* on [Twitter](https://twitter.com/binarymist).**
+**Check out my [blog](https://blog.binarymist.net) or say *hi* on [Twitter](https://twitter.com/binarymist).**
 
 ## Contents
 
@@ -19,8 +19,8 @@ Please read the [contribution guidelines](contributing.md) if you want to contri
   * [Windows](#vps-windows)
     * [PowerShell](#vps-windows-powershell)
 * [Books Network](#books-network)
-
-
+* [Awesome Lists](#awsome-lists)
+* [Other Lists](#other-lists)
 
 
 
@@ -48,6 +48,17 @@ Please read the [contribution guidelines](contributing.md) if you want to contri
 * [Attacking Network Protocols](https://www.nostarch.com/networkprotocols)
 
 
+## Awesome Lists
 
+* [pentest](https://github.com/enaqx/awesome-pentest) - Collection of awesome penetration testing resources.
+* [appsec](https://github.com/binarymist/awesome-appsec) - Curated list of resources for learning about application security. Contains books, websites, blog posts, and self-assessment quizzes.
 
+## Other Lists
 
+* [pentest-wiki](https://github.com/nixawk/pentest-wiki) - Security knowledge library for pentesters / researchers. Also created [psmsf](https://github.com/nixawk/psmsf).
+
+### License
+
+[![Creative Commons License](http://i.creativecommons.org/l/by/4.0/88x31.png)](https://creativecommons.org/licenses/by/4.0/)
+
+This work is licensed under a [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/)
