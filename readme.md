@@ -30,6 +30,9 @@ Please read the [contribution guidelines](contributing.md) if you want to contri
 
 ## VPS
 
+* [Linux_Exploit_Suggester](https://github.com/PenturaLabs/Linux_Exploit_Suggester) - Uses the OS release version, or fine tune by manually providing the Kernel version. Shipped in Kali Linux, and also has [blog post](https://penturalabs.wordpress.com/2013/08/26/linux-exploit-suggester/).
+* [Windows-Exploit-Suggester](https://github.com/GDSSecurity/Windows-Exploit-Suggester) - Compares a targets patch levels against the Microsoft vulnerability database in order to detect potential missing patches on the target. It also notifies the user if there are public exploits and Metasploit modules available for the missing bulletins.
+
 ### Windows
 
 #### PowerShell
