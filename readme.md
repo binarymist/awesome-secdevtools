@@ -18,6 +18,7 @@ Please read the [contribution guidelines](contributing.md) if you want to contri
 * [VPS](#vps)
   * [Windows](#vps-windows)
     * [PowerShell](#vps-windows-powershell)
+* [Network](#network)
 * [Books Network](#books-network)
 * [Awesome Lists](#awsome-lists)
 * [Other Lists](#other-lists)
@@ -43,6 +44,10 @@ Please read the [contribution guidelines](contributing.md) if you want to contri
 * [PowerSploit](https://github.com/PowerShellMafia/PowerSploit) - Collection of PowerShell modules that can be used to aid penetration testers during all phases of an assessment.
 * [UnicornPowerShell](https://github.com/mattifestation/UnicornPowerShell) - A pure PowerShell binding of the [Unicorn Engine](http://www.unicorn-engine.org/), a multi-architecture CPU emulator framework.
 * [WMI_Backdoor](https://github.com/mattifestation/WMI_Backdoor) - PoC WMI backdoor, possibly useful for my WMI exploitation in F1 of Holistic Info-Sec for Web Developers.
+
+## Network
+
+* [hakku](http://hakkuproject.org/) - Currently a simple project with a similar look to Metasploit. I haven't used, but keeping my eye on it.
 
 ## Books Network
 
