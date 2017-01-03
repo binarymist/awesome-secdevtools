@@ -18,6 +18,7 @@ Please read the [contribution guidelines](contributing.md) if you want to contri
 * [VPS](#vps)
   * [Windows](#vps-windows)
     * [PowerShell](#vps-windows-powershell)
+* [Network](#network)
 * [Books Network](#books-network)
 * [Awesome Lists](#awsome-lists)
 * [Other Lists](#other-lists)
@@ -33,9 +34,9 @@ Please read the [contribution guidelines](contributing.md) if you want to contri
 * [Linux_Exploit_Suggester](https://github.com/PenturaLabs/Linux_Exploit_Suggester) - Uses the OS release version, or fine tune by manually providing the Kernel version. Shipped in Kali Linux, and also has [blog post](https://penturalabs.wordpress.com/2013/08/26/linux-exploit-suggester/).
 * [Windows-Exploit-Suggester](https://github.com/GDSSecurity/Windows-Exploit-Suggester) - Compares a targets patch levels against the Microsoft vulnerability database in order to detect potential missing patches on the target. It also notifies the user if there are public exploits and Metasploit modules available for the missing bulletins.
 
-### Windows
+### Windows <a id="vps-windows"/>
 
-#### PowerShell
+#### PowerShell <a id="vps-windows-powershell"/>
 
 * [psmsf](https://github.com/nixawk/psmsf) - PowerShell assistant in the generation of exploit payloads and/or files.
 * [PowerShellArsenal](https://github.com/mattifestation/PowerShellArsenal) - PowerShell repository used to aid a reverse engineer. The module can be used to disassemble managed and unmanaged code, perform .NET malware analysis, analyse/scrape memory, parse file formats and memory structures, obtain internal system information, etc.
@@ -43,6 +44,10 @@ Please read the [contribution guidelines](contributing.md) if you want to contri
 * [PowerSploit](https://github.com/PowerShellMafia/PowerSploit) - Collection of PowerShell modules that can be used to aid penetration testers during all phases of an assessment.
 * [UnicornPowerShell](https://github.com/mattifestation/UnicornPowerShell) - A pure PowerShell binding of the [Unicorn Engine](http://www.unicorn-engine.org/), a multi-architecture CPU emulator framework.
 * [WMI_Backdoor](https://github.com/mattifestation/WMI_Backdoor) - PoC WMI backdoor, possibly useful for my WMI exploitation in F1 of Holistic Info-Sec for Web Developers.
+
+## Network
+
+* [hakku](http://hakkuproject.org/) - Currently a simple project with a similar look to Metasploit. I haven't used, but keeping my eye on it.
 
 ## Books Network
 
@@ -58,7 +63,7 @@ Please read the [contribution guidelines](contributing.md) if you want to contri
 
 * [pentest-wiki](https://github.com/nixawk/pentest-wiki) - Security knowledge library for pentesters / researchers. Also created [psmsf](https://github.com/nixawk/psmsf).
 
-### License
+## License
 
 [![Creative Commons License](http://i.creativecommons.org/l/by/4.0/88x31.png)](https://creativecommons.org/licenses/by/4.0/)
 
