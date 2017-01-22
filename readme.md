@@ -47,6 +47,7 @@ Please read the [contribution guidelines](contributing.md) if you want to contri
 
 * [pentest](https://github.com/enaqx/awesome-pentest) - Collection of awesome penetration testing resources.
 * [appsec](https://github.com/binarymist/awesome-appsec) - Curated list of resources for learning about application security. Contains books, websites, blog posts, and self-assessment quizzes.
+* [windows-exploitation](https://github.com/enddo/awesome-windows-exploitation) - Windows Exploitation resources, and shiny things.
 
 ## Other Lists
 
