@@ -20,7 +20,7 @@ Please read the [contribution guidelines](contributing.md) if you want to contri
   * [Windows](#vps-windows)
     * [PowerShell](#vps-windows-powershell)
 * [Network](#network)
-* [Books Network](#books-network)
+* [Books](#books)
 * [Awesome Lists](#awsome-lists)
 * [Other Lists](#other-lists)
 
@@ -51,7 +51,7 @@ Please read the [contribution guidelines](contributing.md) if you want to contri
 
 * [hakku](http://hakkuproject.org/) - Currently a simple project with a similar look to Metasploit. I haven't used, but keeping my eye on it.
 
-## Books Network
+## Books
 
 * [Attacking Network Protocols](https://www.nostarch.com/networkprotocols)
 * [Hacking: The Art of Exploitation, 2nd Edition](https://www.nostarch.com/hacking2.htm)
