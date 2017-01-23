@@ -15,6 +15,7 @@ Please read the [contribution guidelines](contributing.md) if you want to contri
 
 ## Contents
 
+* [Shellcode](#shellcode)
 * [VPS](#vps)
   * [Windows](#vps-windows)
     * [PowerShell](#vps-windows-powershell)
@@ -24,9 +25,9 @@ Please read the [contribution guidelines](contributing.md) if you want to contri
 
 
 
+## Shellcode
 
-
-
+* [Shellcoding](http://www.vividmachines.com/shellcode/shellcode.html) - Shellcoding for Linux and Windows Tutorial.
 
 ## VPS
 
@@ -39,9 +40,11 @@ Please read the [contribution guidelines](contributing.md) if you want to contri
 
 * [psmsf](https://github.com/nixawk/psmsf) - PowerShell assistant in the generation of exploit payloads and/or files. 
 * [PowerShellArsenal](https://github.com/mattifestation/PowerShellArsenal) - PowerShell repository used to aid a reverse engineer. The module can be used to disassemble managed and unmanaged code, perform .NET malware analysis, analyse/scrape memory, parse file formats and memory structures, obtain internal system information, etc.
-
+* [PowerSploit](https://github.com/PowerShellMafia/PowerSploit) - Collection of PowerShell modules that can be used to aid penetration testers during all phases of an assessment.
+* [Nishang](https://github.com/samratashok/nishang) - Nishang is a framework and collection of scripts and payloads that empower the penetration tester to use PowerShell for all phases of penetration testing.
 ## Books
 
+* [Hacking: The Art of Exploitation, 2nd Edition](https://www.nostarch.com/hacking2.htm)
 
 ## Awesome Lists
 
