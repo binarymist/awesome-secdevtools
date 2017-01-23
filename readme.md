@@ -15,6 +15,7 @@ Please read the [contribution guidelines](contributing.md) if you want to contri
 
 ## Contents
 
+* [Shellcode](#shellcode)
 * [VPS](#vps)
   * [Windows](#vps-windows)
     * [PowerShell](#vps-windows-powershell)
@@ -25,9 +26,9 @@ Please read the [contribution guidelines](contributing.md) if you want to contri
 
 
 
+## Shellcode
 
-
-
+* [Shellcoding](http://www.vividmachines.com/shellcode/shellcode.html) - Shellcoding for Linux and Windows Tutorial.
 
 ## VPS
 
@@ -42,6 +43,7 @@ Please read the [contribution guidelines](contributing.md) if you want to contri
 * [PowerShellArsenal](https://github.com/mattifestation/PowerShellArsenal) - PowerShell repository used to aid a reverse engineer. The module can be used to disassemble managed and unmanaged code, perform .NET malware analysis, analyse/scrape memory, parse file formats and memory structures, obtain internal system information, etc.
 * [Empire](https://github.com/adaptivethreat/Empire) - PowerShell post-exploitation agent. Draws heavily on PowerSploit for one.
 * [PowerSploit](https://github.com/PowerShellMafia/PowerSploit) - Collection of PowerShell modules that can be used to aid penetration testers during all phases of an assessment.
+* [Nishang](https://github.com/samratashok/nishang) - Nishang is a framework and collection of scripts and payloads that empower the penetration tester to use PowerShell for all phases of penetration testing.
 * [UnicornPowerShell](https://github.com/mattifestation/UnicornPowerShell) - A pure PowerShell binding of the [Unicorn Engine](http://www.unicorn-engine.org/), a multi-architecture CPU emulator framework.
 * [WMI_Backdoor](https://github.com/mattifestation/WMI_Backdoor) - PoC WMI backdoor, possibly useful for my WMI exploitation in F1 of Holistic Info-Sec for Web Developers.
 
@@ -52,12 +54,13 @@ Please read the [contribution guidelines](contributing.md) if you want to contri
 ## Books Network
 
 * [Attacking Network Protocols](https://www.nostarch.com/networkprotocols)
-
+* [Hacking: The Art of Exploitation, 2nd Edition](https://www.nostarch.com/hacking2.htm)
 
 ## Awesome Lists
 
 * [pentest](https://github.com/enaqx/awesome-pentest) - Collection of awesome penetration testing resources.
 * [appsec](https://github.com/binarymist/awesome-appsec) - Curated list of resources for learning about application security. Contains books, websites, blog posts, and self-assessment quizzes.
+* [windows-exploitation](https://github.com/enddo/awesome-windows-exploitation) - Windows Exploitation resources, and shiny things.
 
 ## Other Lists
 
